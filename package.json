@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://gitlab.com/talentrade/pusher/issues"
   },
-  "homepage": "https://gitlab.com/talentrade/pusher#README"
+  "homepage": "https://gitlab.com/talentrade/pusher#README",
+  "dependencies": {
+    "amqplib": "^0.5.1",
+    "node-gcm": "^0.14.4"
+  }
 }
