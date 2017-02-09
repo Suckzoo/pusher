@@ -1,0 +1,19 @@
+{
+  "name": "pusher",
+  "version": "1.0.0",
+  "description": "Push worker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/talentrade/pusher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/talentrade/pusher/issues"
+  },
+  "homepage": "https://gitlab.com/talentrade/pusher#README"
+}
